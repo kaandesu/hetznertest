@@ -1,0 +1,1 @@
+import{n as e,o,c as s,a}from"./BGWU3069.js";const t={class:"box-border h-full w-full p-6"},c=a("div",{class:""},"🚧 Dashboard Page 🚧",-1),n=[c],i=e({__name:"dashboard",setup(r){return(_,d)=>(o(),s("main",t,n))}});export{i as default};

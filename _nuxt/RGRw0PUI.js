@@ -1,1 +1,0 @@
-import{c as e,o as t,a as s}from"./BGWU3069.js";const o={class:"flex h-full w-full flex-col items-center justify-center"},c=s("div",{class:"text-2xl font-bold"},"🚧 Settings Page 🚧",-1),a=[c],i={__name:"settings",setup(l){return(n,_)=>(t(),e("div",o,a))}};export{i as default};
